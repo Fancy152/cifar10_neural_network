@@ -1,9 +1,5 @@
 # CIFAR-10 全连接神经网络分类器 / CIFAR-10 Fully Connected Neural Network Classifier
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Neural Network](https://img.shields.io/badge/Neural%20Network-From%20Scratch-red.svg)](https://github.com)
-
 ---
 
 ## 中文 / Chinese
